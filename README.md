@@ -1,0 +1,2 @@
+# E-commerce-Website-Mockup-Services-for-Creative-Gift-Shops-Milan-Gifts
+I designed a modern and vibrant e-commerce website mockup for Milan Gifts using HTML5, CSS3, Bootstrap, jQuery, and JavaScript. The responsive homepage combines a clean layout, engaging UI, and creative graphics to beautifully showcase gift collections, with easy customization using placeholder images and a vibrant color palette.
